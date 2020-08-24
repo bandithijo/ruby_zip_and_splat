@@ -19,6 +19,7 @@ astros = %w[
   Altuve
   Bregman
   Correa
+  Gattis
   Keuchel
   Beltran
   Springer
