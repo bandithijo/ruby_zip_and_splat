@@ -25,7 +25,11 @@ rangers = [
 def position_filter(headers, *data)
   headers.zip(*data)
 end
+```
 
+## Usage
+
+```ruby
 position_filter(headers, astros, rangers)
 ```
 
